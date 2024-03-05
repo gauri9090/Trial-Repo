@@ -1,3 +1,4 @@
 This is first line in file2.txt
-This is second MODIFIED line
+This is 2nd MODIFIED line again
+COnflicting will happen
 
